@@ -1,4 +1,4 @@
-<img width="100%" height="400" alt="image" src="https://github.com/user-attachments/assets/4b66dd1b-35f3-40e3-83d0-eb7d83b9e2ab" />
+<img width="100%" height="400" alt="image" src="banner.gif" />
 
 
 # Отдел цифрового развития ССФ СГН
