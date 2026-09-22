@@ -8,7 +8,7 @@
 - **Автоматизация:** Боты, скрипты, парсеры.
 
 ## Основные репозитории
-- [digital-department-handbook](ссылка_на_репозиторий) — справочник отдела, правила и обучающие материалы.
+- [digital-department-handbook](https://github.com/Digital-SGN/digital-department-handbook) — справочник отдела, правила и обучающие материалы.
 
 ## Контакты
 - Telegram: [@Skebob_gg](https://t.me/@Skebob_gg)
