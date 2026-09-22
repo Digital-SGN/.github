@@ -1,4 +1,4 @@
-<img width="100%" height="400" alt="image" src="banner.gif" />
+<img width="100%" height="300" alt="image" src="banner.gif" />
 
 
 # Отдел цифрового развития ССФ СГН
