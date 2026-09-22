@@ -11,6 +11,7 @@
 | Сайт студсовета, API, фронтенд, деплой | Данные, статистика, отчёты, дашборды | Скрипты, парсеры, интеграции |
 
 ## Основные репозитории
+- [studsovetsgn.ru](https://github.com/Demonrux/StudentCouncilPlatform) — репозиторий платформы студенческого совета.
 - [digital-department-handbook](https://github.com/Digital-SGN/digital-department-handbook) — справочник отдела, правила и обучающие материалы.
 
 ## Контакты
