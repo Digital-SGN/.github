@@ -12,7 +12,7 @@
 
 ## Основные репозитории
 - [Handbook](https://github.com/Digital-SGN/Handbook) — справочник отдела, правила и обучающие материалы.
-- [StudentCouncilPlatform](https://github.com/Demonrux/StudentCouncilPlatform) — репозиторий платформы студенческого совета.
+- [StudentCouncilPlatform](https://github.com/Digital-SGN/StudentCouncilPlatform) — репозиторий платформы студенческого совета.
 
 ## Контакты
 - Telegram: [@Skebob_gg](https://t.me/@Skebob_gg)
