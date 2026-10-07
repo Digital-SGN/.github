@@ -15,5 +15,7 @@
 - [StudentCouncilPlatform](https://github.com/Digital-SGN/StudentCouncilPlatform) — репозиторий платформы студенческого совета.
 
 ## Контакты
-- Telegram: [@Skebob_gg](https://t.me/Skebob_gg)
-- Сайт: [studsovetsgn.ru](https://studsovetsgn.ru)
+<p align="center">
+  <a href="https://t.me/Skebob_gg"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" /></a>
+  <a href="https://studsovetsgn.ru"><img src="https://img.shields.io/badge/сайт-studsovetsgn.ru-0CBFA1" /></a>
+</p>
