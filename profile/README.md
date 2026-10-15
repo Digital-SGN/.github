@@ -13,8 +13,8 @@
 ## Основные репозитории
 - [Handbook](https://github.com/Digital-SGN/Handbook) — справочник отдела, правила и обучающие материалы.
 - [StudentCouncilPlatform](https://github.com/Digital-SGN/StudentCouncilPlatform) — репозиторий платформы студенческого совета.
-- [StudentCouncilBot](https://github.com/Digital-SGN/Handbook) — бот для регистрации на мероприятия студенческого совета.
-- [ScheduleParser](https://github.com/Digital-SGN/StudentCouncilPlatform) — репозиторий платформы студенческого совета.
+- [StudentCouncilBot](https://github.com/Digital-SGN/StudentCouncilBot) — бот для регистрации на мероприятия студенческого совета.
+- [ScheduleParser](https://github.com/Digital-SGN/ScheduleParser) — парсер расписания занятий для платформы студсовета.
 
 ## Контакты
 <p align="center">
