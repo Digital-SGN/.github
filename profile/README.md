@@ -8,6 +8,28 @@
   <img src="https://raw.githubusercontent.com/Digital-SGN/.github/main/profile/logo_digital.png" width="140" alt="Логотип" />
 </p>
 
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://github.com/Digital-SGN/Handbook/blob/main/CONTRIBUTING.md">
+          <img src="https://img.shields.io/badge/Участники-0CBFA1?style=for-the-badge&logo=github&logoColor=white" alt="Участники" />
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/Digital-SGN/Handbook/blob/main/docs/rules.pdf">
+          <img src="https://img.shields.io/badge/Правила%20сдачи-E74C3C?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Правила" />
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://digital-sgn.github.io/fish-fest/">
+          <img src="https://img.shields.io/badge/Играть%20в%20Fish%20Fest-26A5E4?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Игра" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <h1 align="center">Отдел цифрового развития ССФ СГН</h1>
 <p align="center">Добро пожаловать! Мы создаём технологичную среду для студенческого совета.</p>
 
