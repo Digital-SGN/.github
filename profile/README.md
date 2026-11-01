@@ -64,11 +64,15 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Digital-SGN&theme=transparent&title_color=0CBFA1&icon_color=0CBFA1&text_color=333333" />
 
 ## Контакты
-<p align="left">
-  <a href="https://t.me/Skebob_gg"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="40" /></a>
-  &nbsp;&nbsp;
-  <a href="https://studsovetsgn.ru"><img src="https://img.shields.io/badge/сайт-studsovetsgn.ru-0CBFA1?style=for-the-badge&logo=googlechrome&logoColor=white" height="40" /></a>
-</p>
+<div align="center">
+  <a href="https://t.me/Skebob_gg">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;
+  <a href="https://studsovetsgn.ru">
+    <img src="https://img.shields.io/badge/Сайт-studsovetsgn.ru-0CBFA1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Сайт" />
+  </a>
+</div>
 
 ---
 
