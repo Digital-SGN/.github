@@ -31,7 +31,7 @@
       </td>
       <td align="center" width="25%">
         <a href="https://digital-sgn.github.io/fish-fest/">
-          <img src="https://img.shields.io/badge/Играть%20в%20Fish%20Fest-26A5E4?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Игра" />
+          <img src="https://img.shields.io/badge/Fish%20Fest-26A5E4?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Игра" />
         </a>
       </td>
     </tr>
