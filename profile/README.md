@@ -9,16 +9,16 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/Digital-SGN/Handbook/blob/main/CONTRIBUTING.md">
+  <a href="https://github.com/Digital-SGN/Handbook/blob/main/CONTRIBUTING.md" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Участники-0CBFA1?style=for-the-badge&logo=github&logoColor=white" alt="Участники" />
   </a>
-  &nbsp;
-  <a href="https://github.com/Digital-SGN/Handbook/blob/main/docs/rules.pdf">
-    <img src="https://img.shields.io/badge/Правила%20сдачи-E74C3C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Правила" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/Digital-SGN/Handbook/blob/main/docs/rules.pdf" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Правила%20сдачи-E74C3C?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Правила" />
   </a>
-  &nbsp;
-  <a href="https://digital-sgn.github.io/fish-fest/">
-    <img src="https://img.shields.io/badge/Играть%20в%20Fish%20Fest-26A5E4?style=for-the-badge&logo=gamepad&logoColor=white" alt="Игра" />
+  &nbsp;&nbsp;
+  <a href="https://digital-sgn.github.io/fish-fest/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Играть%20в%20Fish%20Fest-26A5E4?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Игра" />
   </a>
 </div>
 
