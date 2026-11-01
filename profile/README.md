@@ -1,5 +1,5 @@
 <img width="100%" height="300" alt="image" src="banner.gif" />
-
+https://github.com/Digital-SGN/.github/blob/main/profile/logo_digital.png
 # Отдел цифрового развития ССФ СГН
 
 Добро пожаловать! Мы создаём технологичную среду для студенческого совета.
