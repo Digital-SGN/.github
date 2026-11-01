@@ -26,7 +26,7 @@
       </td>
       <td align="center" width="25%">
         <a href="https://github.com/orgs/Digital-SGN/projects/2">
-          <img src="https://img.shields.io/badge/Доска%20задач-8A2BE2?style=for-the-badge&logo=githubprojects&logoColor=white" alt="Доска задач" />
+          <img src="https://img.shields.io/badge/Доска%20задач-8A2BE2?style=for-the-badge&logo=trello&logoColor=white" alt="Доска задач" />
         </a>
       </td>
       <td align="center" width="25%">
