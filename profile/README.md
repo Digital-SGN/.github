@@ -39,7 +39,7 @@
 | Сайт студсовета, API, фронтенд, деплой | Данные, статистика, отчёты, дашборды | Скрипты, парсеры, интеграции |
 
 ## Наши проекты
-- <img src="https://cdn.simpleicons.org/html5/0CBFA1" width="16" /> [Handbook](https://github.com/Digital-SGN/Handbook) — справочник отдела, правила и обучающие материалы.
+- <img src="https://cdn.simpleicons.org/gitbook/0CBFA1" width="16" /> [Handbook](https://github.com/Digital-SGN/Handbook) — справочник отдела, правила и обучающие материалы.
 - <img src="https://cdn.simpleicons.org/react/0CBFA1" width="16" /> [StudentCouncilPlatform](https://github.com/Digital-SGN/StudentCouncilPlatform) — платформа студенческого совета.
 - <img src="https://cdn.simpleicons.org/telegram/0CBFA1" width="16" /> [StudentCouncilBot](https://github.com/Digital-SGN/StudentCouncilBot) — бот для регистрации на мероприятия.
 - <img src="https://cdn.simpleicons.org/python/0CBFA1" width="16" /> [ScheduleParser](https://github.com/Digital-SGN/ScheduleParser) — парсер расписания занятий.
