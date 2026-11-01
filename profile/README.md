@@ -27,8 +27,9 @@
 
 ## Наш стек технологий
 
-**Backend & Боты**
+**Backend**
 <p align="left">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/aiogram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -52,7 +53,7 @@
 </p>
 
 ## Статистика организации
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Digital-SGN&theme=default" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Digital-SGN&theme=transparent&title_color=0CBFA1&icon_color=0CBFA1&text_color=333333" />
 
 
 ## Контакты
