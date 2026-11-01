@@ -1,7 +1,7 @@
 <img width="100%" height="300" alt="image" src="banner.gif" />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Digital-SGN/.github/main/profile/logo_digital.png" width="180" alt="Логотип" />
+  <img src="https://raw.githubusercontent.com/Digital-SGN/.github/main/profile/logo_digital.png" width="150" alt="Логотип" />
 </p>
 
 <h1 align="center">Отдел цифрового развития ССФ СГН</h1>
@@ -10,9 +10,7 @@
   Добро пожаловать! Мы создаём технологичную среду для студенческого совета.
 </p>
 
-## Наша команда
-
-<p align="left">
+<p align="center">
   <a href="https://github.com/Digital-SGN/Handbook/blob/main/CONTRIBUTING.md">
     <img src="https://img.shields.io/badge/Список_участников-0CBFA1?style=for-the-badge&logo=github&logoColor=white" height="40" />
   </a>
