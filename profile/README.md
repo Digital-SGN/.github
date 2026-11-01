@@ -26,9 +26,7 @@
 - [Fish Fest](https://digital-sgn.github.io/fish-fest/) — мини-игра «Рыбалка предсказаний».
 
 ## Статистика организации
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Digital-SGN&show_icons=true&title_color=0CBFA1&icon_color=0CBFA1&text_color=333333&bg_color=ffffff&hide_border=true" alt="GitHub Stats" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Digital-SGN&theme=default" />
 
 
 ## Контакты
