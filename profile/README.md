@@ -1,7 +1,10 @@
 <img width="100%" height="300" alt="image" src="banner.gif" />
-https://github.com/Digital-SGN/.github/blob/main/profile/logo_digital.png
-# Отдел цифрового развития ССФ СГН
 
+<p align="center">
+  <img src="https://github.com/Digital-SGN/.github/blob/main/profile/logo_digital.png width="100" alt="Логотип" />
+</p>
+
+<h1 align="center">Отдел цифрового развития ССФ СГН</h1>
 Добро пожаловать! Мы создаём технологичную среду для студенческого совета.
 
 ## Наша команда
