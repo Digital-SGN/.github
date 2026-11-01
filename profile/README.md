@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Digital-SGN/.github/main/profile/logo_digital.png" width="150" alt="Логотип" />
+  <img src="https://raw.githubusercontent.com/Digital-SGN/.github/main/profile/logo_digital.png" width="140" alt="Логотип" />
 </p>
 
 <h1 align="center">Отдел цифрового развития ССФ СГН</h1>
@@ -10,15 +10,15 @@
 
 <p align="center">
   <a href="https://github.com/Digital-SGN/Handbook/blob/main/CONTRIBUTING.md">
-    <img src="https://img.shields.io/badge/Список_участников-0CBFA1?style=for-the-badge&logo=github&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/Список_участников-0CBFA1?style=for-the-badge&logo=github&logoColor=white" height="50" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Digital-SGN/Handbook/blob/main/docs/rules.pdf">
-    <img src="https://img.shields.io/badge/Правила_сдачи-E74C3C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/Правила_сдачи-E74C3C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="50" />
   </a>
   &nbsp;&nbsp;
   <a href="https://digital-sgn.github.io/fish-fest/">
-    <img src="https://img.shields.io/badge/Играть_в_Fish_Fest-26A5E4?style=for-the-badge&logo=gamepad&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/Играть_в_Fish_Fest-26A5E4?style=for-the-badge&logo=gamepad&logoColor=white" height="50" />
   </a>
 </p>
 
