@@ -18,8 +18,9 @@
 
 ## Контакты
 <p align="center">
-  <a href="https://t.me/Skebob_gg"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" /></a>
-  <a href="https://studsovetsgn.ru"><img src="https://img.shields.io/badge/сайт-studsovetsgn.ru-0CBFA1" /></a>
+  <a href="https://t.me/Skebob_gg"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="40" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+  <a href="https://studsovetsgn.ru"><img src="https://img.shields.io/badge/сайт-studsovetsgn.ru-0CBFA1?style=for-the-badge&logo=googlechrome&logoColor=white" height="40" /></a>
 </p>
 
 ---
