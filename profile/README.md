@@ -6,9 +6,12 @@
 Добро пожаловать! Мы создаём технологичную среду для студенческого совета.
 
 ## Наши направления
-| <img src="https://api.iconify.design/tabler:world.svg?color=%234A90D9" width="20" /> **Веб** | <img src="https://api.iconify.design/tabler:chart-bar.svg?color=%234A90D9" width="20" /> **Аналитика** | <img src="https://api.iconify.design/tabler:robot.svg?color=%234A90D9" width="20" /> **Автоматизация** |
-|:---:|:---:|:---:|
-| Сайт студсовета, API, фронтенд, деплой | Данные, статистика, отчёты, дашборды | Скрипты, парсеры, интеграции |
+
+<img src="https://img.shields.io/badge/Веб-4A90D9?style=flat-square&logo=html5&logoColor=white" width="20" />
+
+<img src="https://img.shields.io/badge/Аналитика-4A90D9?style=flat-square&logo=chartdotjs&logoColor=white" width="20" />
+
+<img src="https://img.shields.io/badge/Автоматизация-4A90D9?style=flat-square&logo=robotframework&logoColor=white" width="20" />
 
 ## Основные репозитории
 - [Handbook](https://github.com/Digital-SGN/Handbook) — справочник отдела, правила и обучающие материалы.
