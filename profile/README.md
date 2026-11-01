@@ -12,19 +12,24 @@
 <p align="center">Добро пожаловать! Мы создаём технологичную среду для студенческого совета.</p>
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
-      <td>
+      <td align="center" width="25%">
         <a href="https://github.com/Digital-SGN/Handbook/blob/main/CONTRIBUTING.md">
           <img src="https://img.shields.io/badge/Участники-0CBFA1?style=for-the-badge&logo=github&logoColor=white" alt="Участники" />
         </a>
       </td>
-      <td>
+      <td align="center" width="25%">
         <a href="https://github.com/Digital-SGN/Handbook/blob/main/docs/rules.pdf">
           <img src="https://img.shields.io/badge/Правила%20сдачи-E74C3C?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Правила" />
         </a>
       </td>
-      <td>
+      <td align="center" width="25%">
+        <a href="https://github.com/orgs/Digital-SGN/projects/2">
+          <img src="https://img.shields.io/badge/Доска%20задач-8A2BE2?style=for-the-badge&logo=githubprojects&logoColor=white" alt="Доска задач" />
+        </a>
+      </td>
+      <td align="center" width="25%">
         <a href="https://digital-sgn.github.io/fish-fest/">
           <img src="https://img.shields.io/badge/Играть%20в%20Fish%20Fest-26A5E4?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Игра" />
         </a>
