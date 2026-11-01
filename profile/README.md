@@ -1,5 +1,3 @@
-<img width="100%" height="300" alt="image" src="banner.gif" />
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Digital-SGN/.github/main/profile/logo_digital.png" width="150" alt="Логотип" />
 </p>
