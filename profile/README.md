@@ -9,7 +9,7 @@
 Мы — студенты СГН, которые превращают идеи в рабочие сервисы. От разработчиков до аналитиков.
 
 <a href="https://github.com/Digital-SGN/Handbook/blob/main/CONTRIBUTING.md">
-  <img src="https://img.shields.io/badge/Посмотреть_список_участников-4A90D9?style=for-the-badge&logo=github&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Cписок_участников-0CBFA1?style=for-the-badge&logo=github&logoColor=white" height="30" />
 </a>
 
 
