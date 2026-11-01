@@ -5,6 +5,14 @@
 
 Добро пожаловать! Мы создаём технологичную среду для студенческого совета.
 
+## Наша команда
+Мы — студенты СГН, которые превращают идеи в рабочие сервисы. От разработчиков до аналитиков.
+
+<a href="https://github.com/Digital-SGN/Handbook/blob/main/CONTRIBUTING.md">
+  <img src="https://img.shields.io/badge/Посмотреть_список_участников-4A90D9?style=for-the-badge&logo=github&logoColor=white" height="30" />
+</a>
+
+
 ## Наши направления
 | <img src="https://cdn.simpleicons.org/html5/0CBFA1" width="40" /><br>**Веб** | <img src="https://cdn.simpleicons.org/chartdotjs/0CBFA1" width="40" /><br>**Аналитика** | <img src="https://cdn.simpleicons.org/robotframework/0CBFA1" width="40" /><br>**Автоматизация** |
 |:---:|:---:|:---:|
