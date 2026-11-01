@@ -1,17 +1,24 @@
 <img width="100%" height="300" alt="image" src="banner.gif" />
 
-
 # Отдел цифрового развития ССФ СГН
 
 Добро пожаловать! Мы создаём технологичную среду для студенческого совета.
 
 ## Наша команда
-Мы — студенты СГН, которые превращают идеи в рабочие сервисы. От разработчиков до аналитиков.
 
-<a href="https://github.com/Digital-SGN/Handbook/blob/main/CONTRIBUTING.md">
-  <img src="https://img.shields.io/badge/Cписок_участников-0CBFA1?style=for-the-badge&logo=github&logoColor=white" height="30" />
-</a>
-
+<p align="left">
+  <a href="https://github.com/Digital-SGN/Handbook/blob/main/CONTRIBUTING.md">
+    <img src="https://img.shields.io/badge/Список_участников-0CBFA1?style=for-the-badge&logo=github&logoColor=white" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Digital-SGN/Handbook/docs/rules.pdf">
+    <img src="https://img.shields.io/badge/Правила_сдачи_(PDF)-E74C3C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://digital-sgn.github.io/fish-fest/">
+    <img src="https://img.shields.io/badge/Играть_в_Fish_Fest-26A5E4?style=for-the-badge&logo=gamepad&logoColor=white" height="40" />
+  </a>
+</p>
 
 ## Наши направления
 | <img src="https://cdn.simpleicons.org/html5/0CBFA1" width="40" /><br>**Веб** | <img src="https://cdn.simpleicons.org/chartdotjs/0CBFA1" width="40" /><br>**Аналитика** | <img src="https://cdn.simpleicons.org/robotframework/0CBFA1" width="40" /><br>**Автоматизация** |
@@ -23,7 +30,6 @@
 - <img src="https://cdn.simpleicons.org/react/0CBFA1" width="16" /> [StudentCouncilPlatform](https://github.com/Digital-SGN/StudentCouncilPlatform) — платформа студенческого совета.
 - <img src="https://cdn.simpleicons.org/telegram/0CBFA1" width="16" /> [StudentCouncilBot](https://github.com/Digital-SGN/StudentCouncilBot) — бот для регистрации на мероприятия.
 - <img src="https://cdn.simpleicons.org/python/0CBFA1" width="16" /> [ScheduleParser](https://github.com/Digital-SGN/ScheduleParser) — парсер расписания занятий.
-- [Fish Fest](https://digital-sgn.github.io/fish-fest/) — мини-игра «Рыбалка предсказаний».
 
 ## Наш стек технологий
 
@@ -55,11 +61,10 @@
 ## Статистика организации
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Digital-SGN&theme=transparent&title_color=0CBFA1&icon_color=0CBFA1&text_color=333333" />
 
-
 ## Контакты
-<p align="center">
+<p align="left">
   <a href="https://t.me/Skebob_gg"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="40" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp; 
+  &nbsp;&nbsp;
   <a href="https://studsovetsgn.ru"><img src="https://img.shields.io/badge/сайт-studsovetsgn.ru-0CBFA1?style=for-the-badge&logo=googlechrome&logoColor=white" height="40" /></a>
 </p>
 
