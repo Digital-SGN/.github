@@ -6,7 +6,7 @@
 Добро пожаловать! Мы создаём технологичную среду для студенческого совета.
 
 ## Наши направления
-| <img src="https://img.shields.io/badge/-Веб-4A90D9?style=flat-square&logo=html5&logoColor=white" width="20" /> **Веб** | <img src="https://img.shields.io/badge/-Аналитика-4A90D9?style=flat-square&logo=chartdotjs&logoColor=white" width="20" /> **Аналитика** | <img src="https://img.shields.io/badge/-Автоматизация-4A90D9?style=flat-square&logo=robotframework&logoColor=white" width="20" /> **Автоматизация** |
+| <img src="https://cdn.simpleicons.org/html5/0CBFA1" width="40" /><br>**Веб** | <img src="https://cdn.simpleicons.org/chartdotjs/0CBFA1" width="40" /><br>**Аналитика** | <img src="https://cdn.simpleicons.org/robotframework/0CBFA1" width="40" /><br>**Автоматизация** |
 |:---:|:---:|:---:|
 | Сайт студсовета, API, фронтенд, деплой | Данные, статистика, отчёты, дашборды | Скрипты, парсеры, интеграции |
 
