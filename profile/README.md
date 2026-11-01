@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/Digital-SGN/.github/main/profile/logo_digital.png" width="140" alt="Логотип" />
 </p>
 
-<img src="https://raw.githubusercontent.com/Digital-SGN/.github/main/profile/logo_digital.png" width="140" alt="Логотип" />
 <h1 align="center">Отдел цифрового развития ССФ СГН</h1>
 <p align="center">Добро пожаловать! Мы создаём технологичную среду для студенческого совета.</p>
 <hr style="border: 0; height: 2px; background-image: linear-gradient(to right, rgba(12, 191, 161, 0), rgba(12, 191, 161, 1), rgba(12, 191, 161, 0));" />
