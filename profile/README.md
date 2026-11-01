@@ -65,11 +65,11 @@
 
 ## Контакты
 <div align="center">
-  <a href="https://t.me/Skebob_gg">
+  <a href="https://t.me/Skebob_gg" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  &nbsp;
-  <a href="https://studsovetsgn.ru">
+  &nbsp;&nbsp;
+  <a href="https://studsovetsgn.ru" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Сайт-studsovetsgn.ru-0CBFA1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Сайт" />
   </a>
 </div>
