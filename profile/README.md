@@ -25,6 +25,12 @@
 - <img src="https://cdn.simpleicons.org/python/0CBFA1" width="16" /> [ScheduleParser](https://github.com/Digital-SGN/ScheduleParser) — парсер расписания занятий.
 - [Fish Fest](https://digital-sgn.github.io/fish-fest/) — мини-игра «Рыбалка предсказаний».
 
+## Статистика организации
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Digital-SGN&show_icons=true&title_color=0CBFA1&icon_color=0CBFA1&text_color=333333&bg_color=ffffff&hide_border=true" alt="GitHub Stats" />
+</p>
+
+
 ## Контакты
 <p align="center">
   <a href="https://t.me/Skebob_gg"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="40" /></a>
