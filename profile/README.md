@@ -16,7 +16,7 @@
     <tr>
       <td>
         <a href="https://github.com/Digital-SGN/Handbook/blob/main/CONTRIBUTING.md">
-          <img src="https://img.shields.io/badge/Участники-0CBFA1?&style=for-the-badgee&logo=github&logoColor=white" alt="Участники" />
+          <img src="https://img.shields.io/badge/Участники-0CBFA1?style=for-the-badge&logo=github&logoColor=white" alt="Участники" />
         </a>
       </td>
       <td>
