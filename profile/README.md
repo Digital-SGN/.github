@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/Digital-SGN/.github/main/profile/banner2.gif" width="100%" alt="Баннер отдела" />
+
+<br>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Digital-SGN/.github/main/profile/logo_digital.png" width="140" alt="Логотип" />
 </p>
