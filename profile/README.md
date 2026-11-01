@@ -11,8 +11,8 @@
     <img src="https://img.shields.io/badge/Список_участников-0CBFA1?style=for-the-badge&logo=github&logoColor=white" height="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Digital-SGN/Handbook/docs/rules.pdf">
-    <img src="https://img.shields.io/badge/Правила_сдачи_(PDF)-E74C3C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="40" />
+  <a href="https://github.com/Digital-SGN/Handbook/blob/main/docs/rules.pdf">
+    <img src="https://img.shields.io/badge/Правила_сдачи-E74C3C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://digital-sgn.github.io/fish-fest/">
