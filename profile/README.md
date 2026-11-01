@@ -1,4 +1,7 @@
-<img src="https://raw.githubusercontent.com/Digital-SGN/.github/main/profile/ТВОЙ_ФАЙЛ.gif" width="100%" height="150" alt="Баннер отдела" style="object-fit: cover;" />
+<img src="https://raw.githubusercontent.com/Digital-SGN/.github/main/profile/banner2.gif" width="100%" height="150" alt="Баннер отдела" style="object-fit: cover;" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Digital-SGN/.github/main/profile/banner2.gif" width="800" alt="Баннер отдела" />
+</p>
 
 <br>
 
