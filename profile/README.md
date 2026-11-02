@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Digital-SGN/.github/main/profile/banner2.gif" width="800" height="280" alt="Баннер отдела" />
+  <img src="https://raw.githubusercontent.com/Digital-SGN/.github/main/profile/banner2.gif" width="720" height="260" alt="Баннер отдела" />
 </p>
 
 <br>
