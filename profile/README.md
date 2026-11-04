@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/Digital-SGN/Handbook/blob/main/assets/logo_digital-SGN.png" width="140" alt="Логотип" />
+  <img src="https://github.com/Digital-SGN/Handbook/blob/main/assets/logo_digital-SGN.png" width="160" alt="Логотип" />
 </p>
 
 <h1 align="center">Отдел цифрового развития ССФ СГН</h1>
