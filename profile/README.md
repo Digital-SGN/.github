@@ -46,9 +46,9 @@
 ## Наши проекты
 - <img src="https://cdn.simpleicons.org/gitbook/0CBFA1" width="20" /> [Handbook](https://github.com/Digital-SGN/Handbook) — справочник отдела, правила и обучающие материалы.
 - <img src="https://cdn.simpleicons.org/react/0CBFA1" width="20" /> [StudentCouncilPlatform](https://github.com/Digital-SGN/StudentCouncilPlatform) — платформа студенческого совета.
-- <img src="https://cdn.simpleicons.org/telegram/0CBFA1" width="20" /> [StudentCouncilBot](https://github.com/Digital-SGN/StudentCouncilBot) — бот студенческого совета.
+- <img src="https://cdn.simpleicons.org/telegram/0CBFA1" width="20" /> [StudentCouncilBot](https://github.com/Digital-SGN/StudentCouncilBot) — бот студенческого совета (в разработке).
 - <img src="https://cdn.simpleicons.org/python/0CBFA1" width="20" /> [ScheduleParser](https://github.com/Digital-SGN/ScheduleParser) — парсер расписания занятий.
-- <img src="https://cdn.simpleicons.org/googleclassroom/0CBFA1" width="20" /> [FreeAuditoriums](https://github.com/Digital-SGN/FreeAuditoriums) — поиск свободных аудиторий
+- <img src="https://cdn.simpleicons.org/googleclassroom/0CBFA1" width="20" /> [FreeAuditoriums](https://github.com/Digital-SGN/FreeAuditoriums) — поиск свободных аудиторий (в разработке).
 
 ## Наш стек технологий
 
